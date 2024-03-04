@@ -1,1 +1,0 @@
-MyTestHack\Main.exe -host 10.0.4.119 -port 5005 -err 0
